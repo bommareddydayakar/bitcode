@@ -1,4 +1,4 @@
-package com.equinix.algos.binarybits;
+package com.daya.algos.binarybits;
 
 public class BinaryDemo {
 	public static void main(String[] args) {

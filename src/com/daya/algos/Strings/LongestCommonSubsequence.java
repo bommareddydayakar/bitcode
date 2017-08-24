@@ -1,4 +1,4 @@
-package com.equinix.algos.Strings;
+package com.daya.algos.Strings;
 
 public class LongestCommonSubsequence
 {

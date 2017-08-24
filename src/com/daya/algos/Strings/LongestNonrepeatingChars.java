@@ -1,4 +1,4 @@
-package com.equinix.algos.Strings;
+package com.daya.algos.Strings;
 
 import java.util.HashMap;
 import java.util.Map;

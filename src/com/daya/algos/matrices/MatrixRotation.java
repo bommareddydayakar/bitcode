@@ -1,4 +1,4 @@
-package com.equinix.algos.matrices;
+package com.daya.algos.matrices;
 
 public class MatrixRotation {
 	

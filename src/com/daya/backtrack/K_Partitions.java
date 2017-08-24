@@ -1,4 +1,4 @@
-package com.equinix.algos.backtrack;
+package com.daya.backtrack;
 
 import java.util.ArrayList;
 import java.util.List;

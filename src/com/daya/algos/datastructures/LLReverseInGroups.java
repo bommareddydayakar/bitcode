@@ -1,4 +1,4 @@
-package com.equinix.algos.datastructures;
+package com.daya.algos.datastructures;
 
 public class LLReverseInGroups {
 	public static void main(String args[]) {

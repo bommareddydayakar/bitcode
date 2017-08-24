@@ -1,4 +1,4 @@
-package com.equinix.algos.backtrack;
+package com.daya.backtrack;
 
 public class NightsTour {
 	private static int glcnt = 0;

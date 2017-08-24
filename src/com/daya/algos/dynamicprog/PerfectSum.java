@@ -1,4 +1,4 @@
-package com.equinix.algos.dynamicprog;
+package com.daya.algos.dynamicprog;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package com.equinix.algos;
+package com.daya.algos;
 
 import java.util.Scanner;
 

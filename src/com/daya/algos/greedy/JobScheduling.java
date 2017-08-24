@@ -1,4 +1,4 @@
-package com.equinix.algos.greedy;
+package com.daya.algos.greedy;
 
 public class JobScheduling {
 	public static void main(String[] args) {

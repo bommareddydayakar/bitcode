@@ -1,4 +1,4 @@
-package com.equinix.algos.datastructures;
+package com.daya.algos.datastructures;
 
 import java.util.LinkedList;
 import java.util.Queue;

@@ -1,4 +1,4 @@
-package com.equinix.algos.greedy;
+package com.daya.algos.greedy;
 
 import java.util.ArrayList;
 import java.util.List;

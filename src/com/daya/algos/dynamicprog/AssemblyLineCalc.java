@@ -1,4 +1,4 @@
-package com.equinix.algos.dynamicprog;
+package com.daya.algos.dynamicprog;
 
 public class AssemblyLineCalc {
 	public static void main(String[] args) {

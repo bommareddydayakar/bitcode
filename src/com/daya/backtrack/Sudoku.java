@@ -1,4 +1,4 @@
-package com.equinix.algos.backtrack;
+package com.daya.backtrack;
 
 public class Sudoku {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.equinix.algos.datastructures;
+package com.daya.algos.datastructures;
 
 public class AVLTrees2 {
 	public static void main(String[] args) {

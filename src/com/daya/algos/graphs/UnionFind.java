@@ -1,4 +1,4 @@
-package com.equinix.algos.graphs;
+package com.daya.algos.graphs;
 
 public class UnionFind {
 	int V , E;

@@ -1,4 +1,4 @@
-package com.equinix.algos.maths;
+package com.daya.algos.maths;
 
 import java.util.ArrayList;
 import java.util.List;
